@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi 👋
 
-<!--
-**defnotweuz/defnotweuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Дополнительный (в какой-то степени, в будущем) «щитпост» аккаунт [@notweuz](https://github.com/notweuz)
 
-Here are some ideas to get you started:
+Под «щитпост» имеется ввиду несерьезные проекты или проекты, которые не вижу смысла публиковать на основной аккаунт (К примеру, «scrapped»-проекты)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Media
+
+* [Main Github](https://github.com/notweuz)
+* [Youtube](https://www.youtube.com/@notweuz)
+* [BlueSky](https://bsky.app/profile/ntwz.ru)
+* [Website](https://me.ntwz.ru/)
+* [X](https://www.x.com/notweuz)
+
+<!---
+### Statistics
+![stats](https://github-readme-stats.vercel.app/api?username=notweuz)
+--->
